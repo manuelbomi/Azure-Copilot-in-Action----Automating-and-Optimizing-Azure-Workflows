@@ -172,8 +172,6 @@ Check responses → Remember, Copilot may generate incorrect information — alw
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2b42085a-c5f0-48fa-9712-da3816d09286" />
 
 
-
-
 * Create a virtual network with 2 subnets using the address space of 10.0.0.0 slash 16 using az cli
   
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/04c27710-a544-4530-a0e3-2ae1632f4692" />
@@ -190,12 +188,31 @@ Check responses → Remember, Copilot may generate incorrect information — alw
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/19828aed-f54f-4cb9-b4db-dd5346379ef2" />
 
-* Provide me with a detailed guide on deploying an AKS cluster on Azure
+---
 
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/597c378d-46a9-4329-90fc-85abdd865540" />
-
+##### Thank you for reading 
 
 ---
+
+
+### **AUTHOR'S BACKGROUND**
+### Author's Name:  Emmanuel Oyekanlu
+```
+Skillset:   I have experience spanning several years in data science, developing scalable enterprise data pipelines,
+enterprise solution architecture, architecting enterprise systems data and AI applications,
+software and AI solution design and deployments, data engineering, high performance computing (GPU, CUDA), machine learning,
+NLP, Agentic-AI and LLM applications as well as deploying scalable solutions (apps) on-prem and in the cloud.
+
+I can be reached through: manuelbomi@yahoo.com
+
+Websites (professional):  http://emmanueloyekanlu.com/
+Websites (application):  https://app.emmanueloyekanluprojects.com/
+Publications:  https://scholar.google.com/citations?user=S-jTMfkAAAAJ&hl=en
+LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
+Github:  https://github.com/manuelbomi
+
+```
+[![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
 
 
