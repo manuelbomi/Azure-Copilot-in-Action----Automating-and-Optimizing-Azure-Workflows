@@ -20,11 +20,6 @@
 
 #### Why Azure Copilot?  🚀 
 
-<img width="1589" height="1010" alt="Image" src="https://github.com/user-attachments/assets/a50f7d5b-b246-4bf3-8668-a787b769e4ef" />
-
----
-
-
 #### Azure’s ecosystem is vast — from virtual machines, databases, storage, Kubernetes, and AI services. Copilot helps you:
 
 * Save time → No need to click through endless menus.
@@ -41,7 +36,9 @@
 
 ### Azure Workflow Diagram
 
+<img width="1589" height="1010" alt="Image" src="https://github.com/user-attachments/assets/a50f7d5b-b246-4bf3-8668-a787b769e4ef" />
 
+---
 
 #### 1. Start Copilot
 
@@ -65,7 +62,7 @@
 
 * Copilot can explain how to implement solutions like real-time event processing using Azure Functions, Event Grid, and SignalR.
 
-#### Example prompts:
+### Example prompts:
 
 * “How can I process real-time events in my application with Azure?”
 
@@ -75,7 +72,7 @@
 
 ---
 
-#### Best Practices for Using Copilot  📚 
+### Best Practices for Using Copilot  📚 
 
 Be specific → Instead of “show me resources,” ask “Show me all my VM instances in Resource Group X.”
 
@@ -87,7 +84,7 @@ Check responses → Remember, Copilot may generate incorrect information — alw
 
 ---
 
-#### Scaling Beyond Basics  🔮
+### Scaling Beyond Basics  🔮
 
 * Azure Copilot can help accelerate more complex enterprise workflows, such as:
 
@@ -101,7 +98,7 @@ Check responses → Remember, Copilot may generate incorrect information — alw
 
 ---
 
-#### Conclusion  📌
+### Conclusion  📌
 
 * Azure Copilot is not just a chatbot — it’s a cloud co-pilot that helps streamline operations, boost productivity, and reduce friction when managing Azure services.
 
@@ -110,14 +107,25 @@ Check responses → Remember, Copilot may generate incorrect information — alw
 * By following these steps, you’ll unlock faster and smarter ways of working in the Azure ecosystem.
 
 
-#### Tutorial & Examples Snapshots  📷 
+### Tutorial & Examples Snapshots  📷 
 
-Starting Copilot
+### Starting Copilot
 
-Managing Services & Switching Themes
+* To start using Copilot click on Copilot button
+  
+* After clicking you will get the Copilot Prompt
 
-Processing Real-Time Events
+  <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1fd652ea-de91-48ea-b371-f4e7705cb624" />
+  
+---
+
+### Managing Services & Switching Themes
+* Use copilot to manage services in Azure, change my theme to dark mode
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2848f1aa-35b1-4465-b29e-52349a48d126" />
+
+### Processing Real-Time Events
 
 
 
-✅ #### You can now experiment with Copilot in your own Azure Portal and extend these workflows into enterprise automation pipelines.
+✅ You can now experiment with Copilot in your own Azure Portal and extend these workflows into enterprise automation pipelines.
