@@ -1,6 +1,6 @@
 # Azure Copilot in Action: Automating and Optimizing Azure Workflows
 
-### Introduction  📖 
+### Introduction  
 
 * Microsoft Azure Copilot brings AI-powered assistance directly into the Azure Portal, helping cloud engineers, developers, and enterprise users manage services more effectively. With Copilot, you can:
 
@@ -16,9 +16,9 @@
 
 ---
 
-### Workflow Overview  🔄 
+### Workflow Overview   
 
-#### Why Azure Copilot?  🚀 
+#### Why Azure Copilot?  
 
 #### Azure’s ecosystem is vast — from virtual machines, databases, storage, Kubernetes, and AI services. Copilot helps you:
 
@@ -32,7 +32,7 @@
 
 --- 
 
-### Using Azure Copilot  🖥️ 
+### Using Azure Copilot  
 
 ### Azure Workflow Diagram
 
@@ -72,7 +72,7 @@
 
 ---
 
-### Best Practices for Using Copilot  📚 
+### Best Practices for Using Copilot  
 
 Be specific → Instead of “show me resources,” ask “Show me all my VM instances in Resource Group X.”
 
@@ -84,7 +84,7 @@ Check responses → Remember, Copilot may generate incorrect information — alw
 
 ---
 
-### Scaling Beyond Basics  🔮
+### Scaling Beyond Basics  
 
 * Azure Copilot can help accelerate more complex enterprise workflows, such as:
 
@@ -98,7 +98,7 @@ Check responses → Remember, Copilot may generate incorrect information — alw
 
 ---
 
-### Conclusion  📌
+### Conclusion  
 
 * Azure Copilot is not just a chatbot — it’s a cloud co-pilot that helps streamline operations, boost productivity, and reduce friction when managing Azure services.
 
@@ -107,7 +107,7 @@ Check responses → Remember, Copilot may generate incorrect information — alw
 * By following these steps, you’ll unlock faster and smarter ways of working in the Azure ecosystem.
 
 
-### Tutorial & Examples Snapshots  📷 
+### Tutorial & Examples Snapshots  
 
 ### Starting Copilot
 
